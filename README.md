@@ -1,1 +1,1 @@
-# Reposting_telegram_bot
+## Бот для репостинга постов из Вконтакте в Telegram канал
