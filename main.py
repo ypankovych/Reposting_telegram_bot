@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import telebot
 import requests
 import pytz
